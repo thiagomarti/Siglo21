@@ -87,7 +87,16 @@ const router = createRouter({
       name: 'BlogPost',
       component: BlogPost
     }
-  ]
+  ],
+  scrollBehavior(to, from, savedPosition) {
+    if (savedPosition) {
+      // Retorna la posición guardada (cuando el usuario presiona el botón atrás/adelante).
+      return savedPosition;
+    } else {
+      // Desplaza hacia la parte superior (0, 0) por defecto.
+      return { top: 0 };
+    }
+  },
 });
 
 export default router;
