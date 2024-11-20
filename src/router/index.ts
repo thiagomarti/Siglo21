@@ -88,7 +88,7 @@ const router = createRouter({
       component: BlogPost
     }
   ],
-  scrollBehavior(to, from, savedPosition) {
+  scrollBehavior(savedPosition) {
     if (savedPosition) {
       // Retorna la posición guardada (cuando el usuario presiona el botón atrás/adelante).
       return savedPosition;
