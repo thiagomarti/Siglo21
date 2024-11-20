@@ -20,12 +20,12 @@ import ImageCarousel from '../components/ImageCarousel.vue';
 
         <!-- Buttons Section -->
         <div class="flex flex-col items-center justify-center space-y-4">
-          <a
-            href="/ingreso/pautas"
+          <router-link
+            to="/ingreso/pautas"
             class="w-[85%] xs:w-[48%] px-6 py-3 bg-school-burgundy text-white text-center rounded-lg hover:bg-opacity-90 transition-colors"
           >
             Ingreso
-          </a>
+          </router-link>
           <router-link
             to="/plataformas"
             class="w-[85%] xs:w-[48%] px-6 py-3 bg-school-burgundy text-white text-center rounded-lg hover:bg-opacity-90 transition-colors"
