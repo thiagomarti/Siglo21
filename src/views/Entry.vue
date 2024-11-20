@@ -14,7 +14,7 @@ const tabs = [
 ];
 
 const images = [
-  { src: '/images/imagen1.png', alt: 'Escuela Siglo 21' }.
+  { src: '/images/imagen1.png', alt: 'Escuela Siglo 21' },
   { src: '/images/imagen3.png', alt: 'Escuela Siglo 21' },
   { src: '/images/imagen4.png', alt: 'Escuela Siglo 21' },
   { src: '/images/imagen5.png', alt: 'Escuela Siglo 21' },
