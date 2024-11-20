@@ -1,8 +1,6 @@
 <script setup lang="ts">
 import { ref } from 'vue';
-import { useRoute } from 'vue-router';
 
-const route = useRoute();
 const isMenuOpen = ref(false);
 const openSubmenu = ref<string | null>(null);
 
