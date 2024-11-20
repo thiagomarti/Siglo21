@@ -62,7 +62,7 @@ const menuItems = [
     <div class="max-w-7xl mx-auto px-4">
       <div class="flex justify-between h-16">
         <div class="flex items-center">
-          <router-link to="/" class="text-school-burgundy font-bold text-xl items-center flex flex-row">
+          <router-link to="/" class="text-school-burgundy font-bold text-xl items-center flex flex-row" @click="closeMenu">
             <img class="h-12 w-auto" src="/images/logo.png" alt="Siglo 21" />
             <h1 class="ml-5 hidden xs:block">Centro Educativo Siglo 21</h1>
           </router-link>
