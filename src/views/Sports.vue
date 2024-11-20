@@ -11,7 +11,7 @@ const downloadFiles = [
       <h1 class="text-4xl font-bold text-school-burgundy mb-8">SIGLO 21 SPORTS</h1>
       <h2 class="text-2xl font-semibold text-school-burgundy mb-6">ESCUELAS DEPORTIVAS</h2>
 
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-8">
         <h3 class="text-xl font-bold text-school-burgundy mb-4">FUTBOL</h3>
         
         <h4 class="font-semibold mb-2">Objetivos de la Actividad</h4>
@@ -38,7 +38,7 @@ const downloadFiles = [
         <p class="mb-8">Siglo 21 Sports 4481-7092</p>
       </div>
 
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-8">
         <h3 class="text-xl font-bold text-school-burgundy mb-4">JUEGOS COREOGRÁFICOS</h3>
         <p class="mb-6">Descubrí a través de la danza una forma de comunicación. Sentirás la posibilidad de expresión que hay dentro de tu cuerpo. Mejoras tu postura y plasticidad. Forma parte de nuestro grupo de trabajo. Bailá tus propias coreografías.</p>
 
@@ -53,7 +53,7 @@ const downloadFiles = [
         <p class="mb-4">Salón de usos múltiples y escenario</p>
       </div>
 
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-8">
         <h3 class="text-xl font-bold text-school-burgundy mb-4">HORARIOS</h3>
         <ul class="space-y-4">
           <li><strong>MINI-FÚTBOL:</strong> 3 A 5 AÑOS LUNES Y MIÉRCOLES 17:00 A 18:00 HS.</li>
@@ -66,7 +66,7 @@ const downloadFiles = [
         </ul>
       </div>
 
-      <div class="bg-white rounded-lg shadow-lg p-8">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8">
         <h3 class="text-xl font-bold text-school-burgundy mb-4">Documentos descargables</h3>
         <div class="space-y-2">
           <a
