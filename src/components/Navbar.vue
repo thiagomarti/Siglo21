@@ -20,7 +20,7 @@ const closeMenu = () => {
 };
 
 const menuItems = [
-  { name: 'Home', path: '/' },
+  { name: 'Inicio', path: '/' },
   { name: 'Sobre Nosotros', path: '/#sbns' },
   {
     name: 'Ingreso',
