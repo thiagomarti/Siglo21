@@ -4,7 +4,7 @@
 <template>
   <div class="min-h-screen bg-white py-12 px-4 sm:px-6 lg:px-8">
     <div class="max-w-4xl mx-auto">
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-8">
         <h1 class="text-4xl font-bold text-school-burgundy mb-8">
           INFORMATICA
         </h1>

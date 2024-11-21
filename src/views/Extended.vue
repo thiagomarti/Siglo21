@@ -4,7 +4,7 @@
 <template>
   <div class="min-h-screen bg-white py-12 px-4 sm:px-6 lg:px-8">
     <div class="max-w-4xl mx-auto">
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-8">
       <h1 class="text-4xl font-bold text-school-burgundy mb-8">JORNADA EXTENDIDA</h1>
         <p class="mb-4">El servicio de Jornada Extendida cubre una necesidad actual de las familias, donde todos sus integrantes, deben desempeñarse laboralmente.</p>
 <p class="mb-4">Los alumnos que realizan su escolaridad en el turno mañana (exclusivamente) cuentan con la posibilidad de permanecer en la jornada extendida al cuidado de 2 (dos) docentes especializadas, que los retiran a la salida y almuerzan con ellos.</p>

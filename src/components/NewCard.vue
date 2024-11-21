@@ -13,7 +13,7 @@ defineProps<{
 </script>
 
 <template>
-  <div class="bg-white rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-[1.02]">
+  <div class="bg-white border border-school-burgundy rounded-lg shadow-lg overflow-hidden transition-transform hover:scale-[1.02]">
     <img
       v-if="novedad.imagen"
       :src="novedad.imagen"

@@ -58,7 +58,7 @@ const selectImage = (index: number) => {
     </div>
 
     <!-- Thumbnails -->
-    <div v-if="images.length > 1" class="flex gap-2 mt-4 overflow-x-auto pb-2">
+    <div v-if="images.length > 1" class="flex gap-2 mt-4 overflow-x-auto pb-2 ml-5">
       <button
         v-for="(image, index) in images"
         :key="index"

@@ -39,7 +39,7 @@ const especialDocumentation = [
     <div class="max-w-4xl mx-auto relative z-10">
       <h1 class="text-4xl font-bold text-school-burgundy mb-8 text-center">Nivel Incial</h1>
       <!-- Sección de reuniones -->
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-5">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-5">
         <div class="space-y-2">
           <a
             v-for="file in meetings"
@@ -54,7 +54,7 @@ const especialDocumentation = [
       </div>
 
       <!-- Sección de materiales -->
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-5">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-5">
         <h3 class="text-xl font-bold text-school-burgundy mb-4">
           Listas de Materiales
         </h3>
@@ -71,7 +71,7 @@ const especialDocumentation = [
         </div>
       </div>
 
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-5">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-5">
         <div class="space-y-2">
           <a
             v-for="file in institutional"
@@ -85,7 +85,7 @@ const especialDocumentation = [
         </div>
       </div>
 
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-5">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-5">
         <h3 class="text-xl font-bold text-school-burgundy mb-4">
           Documentación general para los/as alumnos/as
         </h3>
@@ -102,7 +102,7 @@ const especialDocumentation = [
         </div>
       </div>
 
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-5">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-5">
         <h3 class="text-xl font-bold text-school-burgundy mb-4">
           Documentación sólo en caso de necesidad
         </h3>
@@ -119,7 +119,7 @@ const especialDocumentation = [
         </div>
       </div>
 
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-8">
         <h3 class="text-xl font-bold text-school-burgundy mb-4">
           Sólo para familias que ingresan
         </h3>

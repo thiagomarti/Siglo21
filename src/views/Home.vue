@@ -36,7 +36,7 @@ import ImageCarousel from '../components/ImageCarousel.vue';
       </div>
 
       <!-- About Us Section -->
-      <div class="bg-white rounded-lg shadow-lg border border-gray-200 p-8 mb-16" id="sbns">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg border border-gray-200 p-8 mb-16" id="sbns">
         <h2 class="text-3xl font-bold text-school-burgundy mb-8">Sobre Nosotros</h2>
         <div class="prose max-w-none">
           <p class="mb-6">
@@ -85,7 +85,7 @@ import ImageCarousel from '../components/ImageCarousel.vue';
         </div>
 
         <!-- Contact Info -->
-        <div class="bg-white rounded-lg shadow-lg p-8">
+        <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8">
           <h3 class="text-2xl font-bold text-school-burgundy mb-6">Información de Contacto</h3>
           <div class="space-y-4">
             <p class="font-bold">Horarios de Administración</p>

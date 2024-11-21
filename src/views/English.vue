@@ -6,7 +6,7 @@
     <div class="max-w-4xl mx-auto">
       <h1 class="text-4xl font-bold text-school-burgundy mb-8">INGLÉS</h1>
 
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-8">
         <h3 class="text-2xl font-bold text-school-burgundy mb-4">
         Departamento de Inglés
       </h3>
@@ -26,7 +26,7 @@
         </p>
       </div>
 
-      <div class="bg-white rounded-lg shadow-lg p-8 mb-8">
+      <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8 mb-8">
         <h3 class="text-xl font-bold text-school-burgundy mb-4">
           Espacio de Lectura
         </h3>

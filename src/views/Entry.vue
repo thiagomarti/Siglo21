@@ -86,7 +86,7 @@ const goToPreviousTab = () => {
                 </div>
 
                 <!-- Content Area -->
-                <div class="bg-white rounded-lg shadow-lg p-8">
+                <div class="bg-white border border-school-burgundy rounded-lg shadow-lg p-8">
                     <div v-if="currentTab === 'pautas'" class="prose max-w-none">
                         <h1 class="text-4xl font-bold text-school-burgundy mb-8">
                             ELECCIÓN DEL COLEGIO

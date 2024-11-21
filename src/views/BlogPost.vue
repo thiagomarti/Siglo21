@@ -88,7 +88,7 @@ onMounted(async () => {
         </router-link>
       </div>
 
-      <article class="bg-white rounded-lg shadow-lg overflow-hidden">
+      <article class="bg-white border border-school-burgundy rounded-lg shadow-lg overflow-hidden">
         <ImageGallery
           v-if="post.imagenes.length > 0"
           :images="post.imagenes"

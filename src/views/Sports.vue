@@ -73,10 +73,10 @@ const downloadFiles = [
             v-for="file in downloadFiles"
             :key="file.name"
             :href="file.path"
-            class="block px-4 py-2 bg-school-burgundy text-white rounded hover:bg-opacity-90 transition-colors"
+            class="flex items-center px-4 py-2 bg-school-burgundy text-white rounded hover:bg-opacity-90 transition-colors"
             download
           >
-            {{ file.name }}
+          <box-icon name='download' color='#ffffff' ></box-icon> &nbsp;&nbsp;{{ file.name }}
           </a>
         </div>
       </div>
